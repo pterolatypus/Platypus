@@ -1,6 +1,7 @@
 package com.github.pterolatypus.platypus;
 
-import com.github.pterolatypus.platypus.reference.Reference;
+
+import com.github.pterolatypus.platypus.common.reference.Reference;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;

@@ -2,7 +2,7 @@
 {
   "modid": "${mod_id}",
   "name": "${mod_name}",
-  "description": "Platypus is a core library, containing common necessary logic for all my mods.",
+  "description": "Platypus is a core library, containing com.github.pterolatypus.platypus.common necessary logic for all my mods.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
